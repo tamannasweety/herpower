@@ -1,0 +1,74 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+.a:hover{
+    text-decoration: none;
+}
+.hero-title{
+    margin-top: 150px;
+}
+.hero-border{
+    border: 3px solid blue;
+}
+.seemore{
+    color: brown;
+    padding: 3px;
+}
+.seemore.seemore:hover{
+    text-decoration: none;
+    color: blanchedalmond;
+    background-color: blueviolet;
+}
+.footer{
+    border: 3px solid blue;
+}
+.footer ul li a{
+    color: beige;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: aquamarine;
+    height: 75px;
+
+}
+.logo{
+    font-size: 60px;
+
+}
+.logo b a{
+    color: black;
+}
+.logo b a{
+    color: blue;
+}
+nav ul{
+    float: right;
+    margin-top: 20px;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 25px;
+}
+nav ul li a{
+    color: blueviolet;
+    padding: 8px;
+}
+nav ul li a:hover{
+    padding: 8px;
+    border-radius: 5px;
+    background-color: gold;
+    color: green;
+}
+
+
+

@@ -1,0 +1,23 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px ;
+    grid-template-rows: 100px 100px 100px 100px;
+    justify-content: center;
+    gap: 5opx;
+}
+.grid-container div{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: pink;
+    border: 1px solid black;
+} 
+.item2{
+    grid-area: 1/2/3/4;
+    
+}
+.item6{
+    grid-area: 2/4/3/6;
+}
+
+
